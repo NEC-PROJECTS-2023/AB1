@@ -1,5 +1,5 @@
 # AB1
-Diabetes prediction using Machine Learning
+Diabetes prediction using Machine Learning<br/>
 Flask is a Python-based microweb platform that allows users to add application functionality as if they were built into the framework itself. Below fig shows the basic file structures of the developed application and this development process comprises of four different program modules as follows:
 
 • model.pkl- This contains the machine learning model to predict diabetes. Random forest provided the highest accuracy of 92% with all the features, we will integrate this as predictive model in the model.pkl file.
